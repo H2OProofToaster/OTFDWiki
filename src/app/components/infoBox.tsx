@@ -1,9 +1,11 @@
 export default function InfoBox() {
     return (
-        <div class="infobox-wrapper">
-            <div class="title">
+        <div className="infobox-wrapper">
+            <div className="title">
                 <p>
                     TITLE
                 </p>
             </div>
         </div>
+    )
+}
